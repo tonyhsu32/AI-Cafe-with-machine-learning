@@ -1,0 +1,5 @@
+Reference:
+
+https://www.superdatascience.com/opencv-face-detection/
+https://www.superdatascience.com/opencv-face-recognition/
+http://www.willberger.org/cascade-haar-explained/

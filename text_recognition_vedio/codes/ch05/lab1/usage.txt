@@ -1,0 +1,55 @@
+References:
+
+OpenCV Image Process:
+
+Resize,Translate,Rotate:
+https://docs.opencv.org/3.4.1/da/d6e/tutorial_py_geometric_transformations.html
+
+Flip:
+https://docs.opencv.org/3.4.1/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441
+
+RPi Camera + OpenCV:
+
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/
+https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/
+
+Draw:
+	Drawing.py
+
+Resize: 
+	zoom_image.py
+	
+Translate:
+	translate_image.py
+	
+Rotate:
+	rotate_image.py
+	
+Flip:
+	flip_image.py
+	
+Crop:
+	crop_image.py
+	
+Bitwise:
+	bitwise.py
+	
+Mask:
+	masking.py
+	
+Color Space:
+	color_space.py
+	
+Smoothing/Blurring:
+	blur_*.py
+	
+Thresholding:
+	threshold_*.py
+	
+Edge Detection:
+    edge_*.py
+	
+
+
+
