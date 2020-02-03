@@ -1,6 +1,6 @@
 # AI Cafe use automatic services
 
-1. Self-driving car.
+# Self-driving car.
 
 Use Yolov2 model: Basemodel -> VGG, Darknet -> darknet-19.
 
@@ -13,7 +13,7 @@ Use Rasberrypi.
 Use Linux: Ubuntu (18.04).
 
 
-2. Character, Digit Recognition and Face recognition.
+# Character, Digit Recognition and Face recognition.
 
 # Face recognition:
 Use face recognition: python package.
