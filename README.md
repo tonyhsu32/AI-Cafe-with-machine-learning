@@ -2,7 +2,7 @@
 
 ## Self-driving car.
 
-#### Use Yolov2 model: ###### Basemodel -> VGG, Darknet -> darknet-19.
+##### Use Yolov2 model: Basemodel -> VGG, Darknet -> darknet-19.
 
 Use Donkey Car.
 
