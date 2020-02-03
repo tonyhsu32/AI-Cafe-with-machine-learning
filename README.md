@@ -30,6 +30,6 @@ Use PVANet: Deep but Lightweight Neural Networks for Real-time Object Detection.
 
 Use pytesseract: Python-tesseract is an optical character recognition (OCR) tool for python. Python-tesseract is a wrapper for Google’s Tesseract-OCR Engine. https://pypi.org/project/pytesseract/
 
-Use non max suppression.
+Use Non max Suppression.
 
 
