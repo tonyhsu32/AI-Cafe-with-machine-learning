@@ -2,27 +2,22 @@
 
 ## Self-driving car.
 
-### Use Yolov2 model: 
-Basemodel -> VGG, Darknet -> darknet-19.
+Use Yolov2 model: Basemodel -> VGG, Darknet -> darknet-19.
 
-### Use Donkey Car.
+Use Donkey Car.
 
-### Use OpenCV.
+Use OpenCV.
 
-### Use Rasberrypi.
+Use Rasberrypi.
 
-### Use Linux: 
-Ubuntu (18.04).
+Use Linux: Ubuntu (18.04).
 
 
 ## Character, Digit Recognition and Face recognition.
 
 ### Face recognition:
-
-### Use face recognition: 
-python package.
-
-### Use OpenCV.
+Use face recognition: python package.
+Use OpenCV.
 
 
 ### Text recognition:
