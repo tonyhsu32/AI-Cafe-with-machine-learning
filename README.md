@@ -1,6 +1,6 @@
 # AI Cafe use automatic services
 
-# 1. Self-driving car.
+1. Self-driving car.
 
 Use Yolov2 model: Basemodel -> VGG, Darknet -> darknet-19.
 
@@ -13,15 +13,15 @@ Use Rasberrypi.
 Use Linux: Ubuntu (18.04).
 
 
-# 2. Character, Digit Recognition and Face recognition.
+2. Character, Digit Recognition and Face recognition.
 
-# Face recognition:
+Face recognition:
 Use face recognition: python package.
 
 Use OpenCV.
 
 
-# Text recognition:
+Text recognition:
 Use OpenCV: cv2.dnn.readNet(args["east"]), cv2.dnn.blobFromImage(). https://docs.opencv.org/3.4/d6/d0f/group__dnn.html
 
 Use EAST: An Efficient and Accurate Scene Text Detector. https://github.com/argman/EAST
