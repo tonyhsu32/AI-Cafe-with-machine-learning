@@ -31,4 +31,7 @@ Use pytesseract: Python-tesseract is an optical character recognition (OCR) tool
 
 Use Non max Suppression.
 
+Refer to pyimagesearch - https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
+
+
 
