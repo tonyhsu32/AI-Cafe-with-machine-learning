@@ -31,7 +31,7 @@ Use pytesseract: Python-tesseract is an optical character recognition (OCR) tool
 
 Use Python package Imutils: Non max Suppression function.
 
-Refer to pyimagesearch - https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
+Refer to pyimagesearch - https://www.pyimagesearch.com
 
 
 
