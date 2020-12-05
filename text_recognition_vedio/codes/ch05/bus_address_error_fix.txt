@@ -1,8 +1,0 @@
-To fix following error:
-
-WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
-
-Solution:
-
-apt update
-apt install at-spi2-core
